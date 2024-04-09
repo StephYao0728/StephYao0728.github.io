@@ -1,3 +1,2 @@
-# Website for MMM '24
-
-https://www.mmm2024.org/
+# Website for Shanghai Pinghe School Math Club
+https://stephyao0728.github.io
